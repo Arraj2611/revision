@@ -1,3 +1,10 @@
 ipykernel
 numpy
 pandas
+lxml
+html5lib
+beautifulsoup4
+openpyxl
+requests
+seaborn
+matplotlib
